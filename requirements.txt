@@ -1,0 +1,8 @@
+langchain>=0.1.10
+langchain-community>=0.0.25
+langchain-openai>=0.0.8
+chromadb>=0.4.22
+sentence-transformers>=2.4.0
+pypdf>=4.0.0
+pydantic>=2.6.0
+tavily-python>=0.3.1
